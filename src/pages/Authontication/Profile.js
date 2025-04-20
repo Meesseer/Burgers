@@ -8,10 +8,10 @@ import pic from "../../assets/profile/Owais.jpg"
 function Profile() {
     const [isEditing, setIsEditing] = useState(false);
     const [profile, setProfile] = useState({
-        name: "Sadikali Khorajiya",
-        email: "sadikalikhorajiya20@example.com",
-        phone: "9879590440",
-        location: "Ahmdabad, Gujarat",
+        name: "Owais Khan",
+        email: "Ammarasu@example.com",
+        phone: "1234567890",
+        location: "Mumbai",
     });
 
     const handleChange = (e) => {
