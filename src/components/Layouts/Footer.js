@@ -49,8 +49,8 @@ function Footer() {
                 <h5>Order Now</h5>
                 <p>Quaerat neque purus ipsum</p>
                 <p>
-                  <Link to="tel:9879590440" className="calling">
-                    9879590440
+                  <Link to="tel:1234567890" className="calling">
+                    1234567890
                   </Link>
                 </p>
               </div>
@@ -90,7 +90,7 @@ function Footer() {
                 <ul className="list-unstyled text-center mb-0">
                   <li>
                     <Link to="/">
-                      © 2025 <span>SADIKALI KHORAJIYA</span>. All Rights Reserved
+                      © 2025 <span>Owais Khan</span>. All Rights Reserved
                     </Link>
                   </li>
                   <li>
