@@ -3,7 +3,7 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 import { FaUserEdit, FaEnvelope, FaPhone, FaMapMarkerAlt } from "react-icons/fa";
 import "../../styles/Authpage.css"
-import pic from "../../assets/profile/profile.jpg"
+import pic from "../../assets/profile/Owais.jpg"
 
 function Profile() {
     const [isEditing, setIsEditing] = useState(false);
