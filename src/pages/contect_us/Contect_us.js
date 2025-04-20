@@ -13,7 +13,7 @@ function Contect_us() {
                     <Row>
                         <Col lg={12}>
                             <div className="hero_text text-center">
-                                <h1 className="text-white">Our Contect_us</h1>
+                                <h1 className="text-white">Our Contact Us</h1>
                                 <h2 className="text-white">Yummy & Wow Burger</h2>
                             </div>
                         </Col>
@@ -48,12 +48,12 @@ function Contect_us() {
 
                                 <div className="d-flex align-items-center mb-3">
                                     <FaPhone className="icon me-3" />
-                                    <p className="m-0">9879590440</p>
+                                    <p className="m-0">1234567890</p>
                                 </div>
 
                                 <div className="d-flex align-items-center mb-3">
                                     <FaEnvelope className="icon me-3" />
-                                    <p className="m-0">sadikalikhorajiya20@gmail.com</p>
+                                    <p className="m-0">OwaisKhan@gmail.com</p>
                                 </div>
 
                                 <div className="d-flex align-items-center">
