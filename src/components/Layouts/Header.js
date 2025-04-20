@@ -44,7 +44,7 @@ const Header = () => {
               >
                 <div className="cart">
                   <i className="bi bi-bag fs-5"></i>
-                  <em className="roundpoint">2</em>
+                  <em className="roundpoint">0</em>
                 </div>
               </Nav.Link>
               <Nav.Link as={Link} to="/login">
