@@ -16,7 +16,7 @@ function Section7() {
               magna
             </p>
             <Link to="/" className="btn btn_red px-4 py-2 rounded-0">
-              Call: 9879590440
+              Call: 1234567890
             </Link>
           </Col>
         </Row>
