@@ -9,7 +9,7 @@ function Profile() {
     const [isEditing, setIsEditing] = useState(false);
     const [profile, setProfile] = useState({
         name: "Owais Khan",
-        email: "Ammarasu@example.com",
+        email: "OwaisKhan@example.com",
         phone: "1234567890",
         location: "Mumbai",
     });
